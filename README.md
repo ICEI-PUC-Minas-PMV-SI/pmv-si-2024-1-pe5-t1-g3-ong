@@ -13,10 +13,11 @@ Para facilitar a gestão, comunicação, divulgação e operação da ONG, estã
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Camila Fernanda da Silva
+* Francisco Matos
+* Gabriela Scarabelli Bahia
+* Henrique Lima
+* Nathalia Souto
 * Wallace Sousa
 
 ## Orientador
